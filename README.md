@@ -1,0 +1,2 @@
+# tweetSentimentAnalysisPig
+Apache Pig project
